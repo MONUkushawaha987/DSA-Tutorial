@@ -1,5 +1,4 @@
-// Iterate JavaScript Program to print alternate elements
-// of the array
+// Iterate JavaScript Program to print alternate elements of the array
 
 function getAlternates(arr) {
     let res = [];
